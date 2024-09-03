@@ -1,0 +1,14 @@
+body { background-color: #34495e; }
+
+#root { margin: 0 auto; padding: 2rem; text-align: center; }
+
+.color-converter { width: 100%; max-width: 360px; }
+
+.color-converter__input,
+.color-converter__result { padding: 36px; font-size: 28px; line-height: 1; }
+
+.color-converter__input { width: 100%; text-align: inherit; background-color: #ffffff; }
+
+.color-converter__result { color: #ffffff; background-color: rgba(0, 0, 0, 0.5) }
+
+
